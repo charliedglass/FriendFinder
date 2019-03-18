@@ -1,3 +1,4 @@
+//retrieving data already stored on users
 var userData = require("../data/friends");
 
 module.exports = function(app) {
